@@ -1,2 +1,2 @@
 # JapaneseNuancedVocabulary
-Dataset of Nuanced Japanese Vocabulary for multilingual AI development.
+Dataset of nuanced Japanese vocabulary for multilingual AI development. The categories in the CSV are: Category,	Japanese,	Romaji,	English,	Usage,	Example.
